@@ -1,1 +1,1 @@
-# shooting-game
+# 좀비 사냥 게임
