@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: aff9aaf8d4c68984c9a5334437caafd0
+  - enabled: 1
+    path: Assets/Scenes/gameplay.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Endin.unity
+    guid: 3a6548e459fdc694d9c7f86f484d0c7c
+  - enabled: 1
+    path: Assets/NeonSphere - Starter Pack/Scenes/NeonScene.unity
+    guid: a4c251521ce2ec2499d5db4fd55c1c9f
+  m_configObjects: {}
